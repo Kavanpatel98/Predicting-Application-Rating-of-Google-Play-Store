@@ -15,5 +15,3 @@ Phases of this project
   6) Prediction of Rating based on machine learning model 
   7) Model selection
   8) UI creation 
-
-For proper understanding of this project please go through the report. 
