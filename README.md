@@ -1,7 +1,5 @@
 # Predicting-Application-Rating-of-Google-Play-Store 
 
-View Project Deom :- https://kavan.shinyapps.io/Google-Play-Application-Rating-Prediction/
-
 In data folder there is 2 file 
   Application Information
   Application Reviews 
